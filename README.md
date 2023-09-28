@@ -1,4 +1,3 @@
-# Portfolio-Ashrit-Kankipati
-
-Welcome to my portfolio!
+# My Portfolio
+Welcome to my portfolio! 
 
