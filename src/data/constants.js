@@ -197,8 +197,7 @@ export const Bio = {
     },
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-      role: "Graduate Grader",
+      img: "https://avatars.githubusercontent.com/u/108095428?…00&u=7cba1a499bd44680e85327b968c3c8f9e196a4f6&v=4",
       company: "Binghamton University",
       date: "August 2022 - December 2022",
       desc: "Provided clear guidance and assistance to students in debugging and error-checking their code",
@@ -216,7 +215,7 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+      img: "https://avatars.githubusercontent.com/u/108095428?…00&u=7cba1a499bd44680e85327b968c3c8f9e196a4f6&v=4",
       school: "Binghamton University-SUNY",
       date: "January 2022 - December 2023",
       grade: "3.75//4",
@@ -225,7 +224,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://upload.wikimedia.org/wikipedia/en/2/29/Osmania_University_Logo.png",
       school: "Osmania University",
       date: "May 2015 - May 2019",
       grade: "71%",

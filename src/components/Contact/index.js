@@ -112,6 +112,7 @@ const ContactButton = styled.input`
   background: -moz-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
   background: -webkit-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
   padding: 13px 16px;
+  cursor: pointer;
   margin-top: 2px;
   border-radius: 12px;
   border: none;
@@ -130,7 +131,8 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
+    emailjs.sendForm('service_q30fqh8', 'template_rn7atlu', form.current, '5mRRZ_0TOxgZmpb7z')
+    
       .then((result) => {
         setOpen(true);
         form.current.reset();
