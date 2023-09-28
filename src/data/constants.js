@@ -5,11 +5,12 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      "In my journey through both professional pursuits and the tapestry of life, I've always believed that constraints are often just in our heads. Hey, I'm Ashrit Kankipati, and I've consistently thought, \"Why stick to a box?\" After all, true freedom lies beyond any boundaries we set. This perspective has guided me through academics, a variety of roles, and personal growth. Keeping things simple amidst complexity has always been my mantra. This outlook isn't just a part of my work; it's how I approach everything.",
     github: "https://github.com/akankip1",
     resume:
       "https://docs.google.com/document/d/1V17seD_piVQQ-Iq5oDVPFKfq7zc7CCGI/edit?usp=drive_link&ouid=105341763109281109554&rtpof=true&sd=true",
     linkedin: "https://www.linkedin.com/in/ashrit-kankipati/",
+    instagram:"https://instagram.com/ash_kankipati?igshid=YTQwZjQ0NmI0OA=="
     
   };
   
@@ -275,8 +276,7 @@ export const Bio = {
       date: "May 2023",
       description:
         "Online Meme Generator",
-      image:
-        "",
+      image:"	https://www.androidauthority.com/wp-content/uploads/2014/09/Best-Meme-Generator-featured.jpg",
       tags: [
         "React JS",
         "Node JS",
@@ -285,8 +285,8 @@ export const Bio = {
         "Javascript"
       ],
       category: "web app",
-      github: "",
-      webapp: "",
+      github: "https://github.com/akankip1/Meme-Factory",
+      webapp: "https://akankip1.github.io/Meme-Factory/",
     },
     
   ];
