@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Ashrit-Kankipati/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio-Ashrit-Kankipati/static/js/main.d5b1b882.js",
+    "static/media/HeroImage.jpeg": "/Portfolio-Ashrit-Kankipati/static/media/HeroImage.f11d7278edb71b0c5458.jpeg",
+    "index.html": "/Portfolio-Ashrit-Kankipati/index.html",
+    "main.bf538fe7.css.map": "/Portfolio-Ashrit-Kankipati/static/css/main.bf538fe7.css.map",
+    "main.d5b1b882.js.map": "/Portfolio-Ashrit-Kankipati/static/js/main.d5b1b882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.d5b1b882.js"
+  ]
+}
