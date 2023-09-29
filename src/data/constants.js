@@ -65,11 +65,11 @@ export const Bio = {
       skills: [
         {
             name:"Spring Framework",
-            image:"https://d3njjcbhbojbot.cloudfront.net/api/utilitie…ca/Spring800x800.png?auto=format%2Ccompress&dpr=1"
+            image:"	https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
         },
         {
             name:"Spring Boot",
-            image:"https://d3njjcbhbojbot.cloudfront.net/api/utilitie…ca/Spring800x800.png?auto=format%2Ccompress&dpr=1"
+            image:"	https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
         },
         {
           name: "Node Js",
@@ -118,21 +118,23 @@ export const Bio = {
             image:
               "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
           },
+          {
+            name: "Javascript",
+            image:
+              "	https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"
+          },
+          {
+            name: "C/C++",
+            image:
+              "	https://www.educative.io/v2api/editorpage/5295407815458816/image/4810048073629696"
+          },
         {
           name: "XML",
           image:
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
         },
-        {
-            name: "C/C++",
-            image:
-              "	https://www.educative.io/v2api/editorpage/5295407815458816/image/4810048073629696"
-          },
-          {
-            name: "Javascript",
-            image:
-              "	data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEA…YZh1NIgiCIAiCIAiCIGf8A7oXc5FefbfDAAAAAElFTkSuQmCC"
-          },
+        
+          
       ],
     },
     {
@@ -242,7 +244,7 @@ export const Bio = {
       description:
         "Full Stack web application connecting Spring Boot+React+MongoDB",
       image:
-        "",
+        "https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/400/1x/cbbc/bp-film-review-title.jpg",
       tags: [
         "Spring Boot",
         "React",
@@ -252,7 +254,7 @@ export const Bio = {
         "MySQL"
       ],
       category: "web app",
-      github: "",
+      github: "https://github.com/akankip1/Movie-Review-System",
       webapp: "",
     },
     {
@@ -268,6 +270,25 @@ export const Bio = {
       github: "",
       webapp: "",
       
+    },
+    {
+      id: 2,
+      title: "Full-stack User Login",
+      date: "July 2023",
+      description:
+        "User Login using JWT linking React JS and Spring Boot and PostgreSQL",
+      image:"	https://www.freeiconspng.com/uploads/user-login-icon-29.png",
+      tags: [
+        "React JS",
+        "Spring Boot",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PostgreSQL"
+      ],
+      category: "web app",
+      github: "https://github.com/akankip1/User-Login-Full-Stack",
+      webapp: ""
     },
     {
       id: 1,
