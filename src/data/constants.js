@@ -5,7 +5,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "In my journey through both professional pursuits and the tapestry of life, I've always believed that constraints are often just in our heads. Hey, I'm Ashrit Kankipati, and I've consistently thought, \"Why stick to a box?\" After all, true freedom lies beyond any boundaries we set. This perspective has guided me through academics, a variety of roles, and personal growth. Keeping things simple amidst complexity has always been my mantra. This outlook isn't just a part of my work; it's how I approach everything.",
+      "In my journey through both professional pursuits and the tapestry of life, I've always believed that constraints are often just in our heads. Hey, I'm Ashrit Kankipati, and I've consistently thought, \"Why stick to a box?\" This perspective has guided me through academics, a variety of roles, and personal growth. Keeping things simple amidst complexity has always been my mantra.",
     github: "https://github.com/akankip1",
     resume:
       "https://docs.google.com/document/d/1V17seD_piVQQ-Iq5oDVPFKfq7zc7CCGI/edit?usp=drive_link&ouid=105341763109281109554&rtpof=true&sd=true",
