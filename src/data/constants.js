@@ -8,7 +8,7 @@ export const Bio = {
       "In my journey through both professional pursuits and the tapestry of life, I've always believed that constraints are often just in our heads. Hey, I'm Ashrit Kankipati, and I've consistently thought, \"Why stick to a box?\" This perspective has guided me through academics, a variety of roles, and personal growth. Keeping things simple amidst complexity has always been my mantra.",
     github: "https://github.com/akankip1",
     resume:
-      "https://docs.google.com/document/d/1V17seD_piVQQ-Iq5oDVPFKfq7zc7CCGI/edit?usp=drive_link&ouid=105341763109281109554&rtpof=true&sd=true",
+      "https://drive.google.com/file/d/1bzcAESRBqqfI6Hpx9nFbYainaREipkjq/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/ashrit-kankipati/",
     instagram:"https://instagram.com/ash_kankipati?igshid=YTQwZjQ0NmI0OA=="
     
