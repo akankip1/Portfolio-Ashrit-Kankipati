@@ -1,3 +1,4 @@
+import img from './website.png'
 export const Bio = {
     name: "Ashrit Kankipati",
     roles: [
@@ -277,7 +278,7 @@ export const Bio = {
       date: "July 2023",
       description:
         "User Login using JWT linking React JS and Spring Boot and PostgreSQL",
-      image:"	https://www.freeiconspng.com/uploads/user-login-icon-29.png",
+      image:img,
       tags: [
         "React JS",
         "Spring Boot",
