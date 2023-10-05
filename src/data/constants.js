@@ -1,4 +1,5 @@
 import img from './website.png'
+import review from './review.jpg'
 export const Bio = {
     name: "Ashrit Kankipati",
     roles: [
@@ -244,8 +245,7 @@ export const Bio = {
       date: "Aug 2023-Dec 2023",
       description:
         "Full Stack web application connecting Spring Boot+React+MongoDB",
-      image:
-        "https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/400/1x/cbbc/bp-film-review-title.jpg",
+      image:review,
       tags: [
         "Spring Boot",
         "React",
