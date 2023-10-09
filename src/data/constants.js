@@ -1,5 +1,6 @@
 import img from './website.png'
 import review from './review.jpg'
+import blog from './online-blog.jpg'
 export const Bio = {
     name: "Ashrit Kankipati",
     roles: [
@@ -264,11 +265,10 @@ export const Bio = {
       date: "Jan 2023 - May 2023",
       description:
         "Developed a full-stack Blog web application using MERN",
-      image:
-        "",
+      image:blog,
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
       category: "web app",
-      github: "",
+      github: "https://github.com/akankip1/F1-Blog",
       webapp: "",
       
     },
@@ -296,7 +296,7 @@ export const Bio = {
       title: "Meme Generator",
       date: "May 2023",
       description:
-        "Online Meme Generator",
+        "Online Meme Generator for online platforms and fun",
       image:"	https://www.androidauthority.com/wp-content/uploads/2014/09/Best-Meme-Generator-featured.jpg",
       tags: [
         "React JS",
