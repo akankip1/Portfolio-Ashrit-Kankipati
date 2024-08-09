@@ -184,12 +184,44 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
+      img: "https://media.licdn.com/dms/image/v2/D4E22AQFLw5gfoFaseQ/feedshare-shrink_800/feedshare-shrink_800/0/1709769688200?e=1726099200&v=beta&t=KZPqfHjEd81lfuZ0nZxujrUstuQ6smB036GfBybGgtk",
+      role: "Software Developer",
+      company: "Outlier",
+      date: "March 2023 - present",
+      desc: "Specialized in prompt engineering with Java, Python, and SQL; implemented scalable data processing pipelines; conducted data analysis and preprocessing; and created data visualization dashboards using Python libraries.",
+      skills: [
+        "Java",
+        "Python",
+        "SQL",
+        "PyTorch",
+        "Pandas"
+      ],
+      doc: "",
+    },
+    {
+      id: 0,
+      img: "https://avatars.githubusercontent.com/u/108095428?…00&u=7cba1a499bd44680e85327b968c3c8f9e196a4f6&v=4",
+      role: "Graduate Student Assistant",
+      company: "Binghamton University",
+      date: "August 2022 - December 2022",
+      desc: "Provided guidance to students in C and C++ debugging and error-checking, and developed CUnit scripts to automate the grading process.",
+      skills: [
+        "C",
+        "C++",
+        "Linux",
+        "CUnit",
+      ],
+      doc: "",
+    },
+    {
+      id: 0,
       img: "https://1000logos.net/wp-content/uploads/2018/04/Hyundai-Logo-500x281.png",
       role: "Research Engineer",
       company: "Hyundai Motor India Engineering",
       date: "July 2019 - November 2021",
-      desc: "Product Lifecycle Management System(Internal Project)",
+      desc: "Developed Product Lifecycle Management System(PLM) application",
       skills: [
+        "Java",
         "Spring Boot",
         "MySQL",
         "JUnit",
@@ -199,31 +231,17 @@ export const Bio = {
         "Node Js"
       ],
       doc: "",
-    },
-    {
-      id: 0,
-      img: "https://avatars.githubusercontent.com/u/108095428?…00&u=7cba1a499bd44680e85327b968c3c8f9e196a4f6&v=4",
-      company: "Binghamton University",
-      date: "August 2022 - December 2022",
-      desc: "Provided clear guidance and assistance to students in debugging and error-checking their code",
-      skills: [
-        "C",
-        "C++",
-        "Linux",
-        "CUnit",
-      ],
-      doc: "",
-    },
+    }    
     
   ];
   
   export const education = [
     {
       id: 0,
-      img: "https://avatars.githubusercontent.com/u/108095428?…00&u=7cba1a499bd44680e85327b968c3c8f9e196a4f6&v=4",
+      img: "https://upload.wikimedia.org/wikipedia/commons/3/30/Binghamton_University_State_University_of_New_York_logo_%287%29.jpg",
       school: "Binghamton University-SUNY",
       date: "January 2022 - December 2023",
-      grade: "3.75//4",
+      grade: "3.8/4",
       desc: "",
       degree: "Master of Science in Computer Science",
     },
