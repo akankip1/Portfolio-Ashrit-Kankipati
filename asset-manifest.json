@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolio-Ashrit-Kankipati/static/css/main.bf538fe7.css",
-    "main.js": "/Portfolio-Ashrit-Kankipati/static/js/main.eb055422.js",
+    "main.js": "/Portfolio-Ashrit-Kankipati/static/js/main.8e0016af.js",
     "static/media/online-blog.jpg": "/Portfolio-Ashrit-Kankipati/static/media/online-blog.907ac25cab66c523c8ec.jpg",
     "static/media/website.png": "/Portfolio-Ashrit-Kankipati/static/media/website.d6e22e43679b90b4b9d6.png",
     "static/media/HeroImage.jpeg": "/Portfolio-Ashrit-Kankipati/static/media/HeroImage.f11d7278edb71b0c5458.jpeg",
     "static/media/review.jpg": "/Portfolio-Ashrit-Kankipati/static/media/review.612971d6d566269ce4ca.jpg",
     "index.html": "/Portfolio-Ashrit-Kankipati/index.html",
     "main.bf538fe7.css.map": "/Portfolio-Ashrit-Kankipati/static/css/main.bf538fe7.css.map",
-    "main.eb055422.js.map": "/Portfolio-Ashrit-Kankipati/static/js/main.eb055422.js.map"
+    "main.8e0016af.js.map": "/Portfolio-Ashrit-Kankipati/static/js/main.8e0016af.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.eb055422.js"
+    "static/js/main.8e0016af.js"
   ]
 }
